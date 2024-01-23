@@ -6,7 +6,7 @@ Howdy! I'm Priyasha Shrivastava, a self-proclaimed Developer with a knack for tu
 
 ## 🔭 I’m currently juggling
 
-- NFT Marketplace - It's like trying to herd cats, but with code.
+- NFT Marketplace - Buy, Sell, List NFTs with just one click
   
 ## 🌱 I’m currently learning
 
